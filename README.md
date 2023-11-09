@@ -15,7 +15,7 @@ This project must at least satisfy the following minimum requirements:
     - Choose a specific style for your charts.
         - Apply one color palette from your choice on all charts.
         - Use the title, x-y labels, font size, figure size, and legends.
-- Create an interactive dashboard using Plotly.
+- Create an interactive dashboard using Plotly or Tableau.
 - Report your final conclusion and findings in one page (readme markdown file).
     - Team members.
     - Introduction (problem, objectives)
@@ -23,7 +23,7 @@ This project must at least satisfy the following minimum requirements:
     - Describe the final ten insights.
     
 - The Final presentation will be on Sunday.
-- Due Date: Sun, 11 Nov, 11:00 PM.
+- Due Date: Sun, 11 Nov, 3:00 PM.
 Final Deliverables:
 - Notebook file(.ipynb).
 - README.md file.
